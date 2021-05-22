@@ -1,0 +1,41 @@
+body {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  color: black;
+  font-weight: 800;
+  font-size: 50px;
+  text-align: center;
+  font-style: oblique;
+}
+h2 {
+  text-align: center;
+}
+h4 {
+  text-align: center;
+}
+address {
+  text-align: center;
+}
+#hwino {
+  color: #569aff;
+}
+#won6un {
+  color: yellowgreen;
+}
+#minjung {
+  color: #ffc700;
+}
+#wooruck {
+  color: #f6917d;
+}
+#sponsor {
+  color: black;
+}
+.nonUnderline {
+  text-decoration: none;
+}
