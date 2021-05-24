@@ -17,18 +17,12 @@ h2 {
 address {
   text-align: center;
 }
-#hwino {
-  color: blue;
-}
+
 #won6un {
   color: green;
 }
-#minjung {
-  color: orange;
-}
-#wooruck {
-  color: #f6917d;
-}
+
+
 .nonUnderline {
   text-decoration: none;
 }
