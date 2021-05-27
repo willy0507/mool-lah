@@ -1,0 +1,27 @@
+  
+body {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h1 {
+  color: #569aff;
+  font-weight: 800;
+  font-size: 50px;
+  text-align: center;
+  font-style: oblique;
+}
+h2 {
+  text-align: center;
+}
+address {
+  text-align: center;
+}
+#hwino {
+  color: blue;
+}
+
+.nonUnderline {
+  text-decoration: none;
+}
