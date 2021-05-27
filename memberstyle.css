@@ -19,8 +19,18 @@ address {
   text-align: center;
 }
 #hwino {
-  color: blue;
+  color: #569AFF;
 }
+#wonjun {
+  color: #9ACD32;
+}
+#minjoeng{
+  color: #FFC700;
+}
+#wooseok{
+  color: #F6917D;
+}
+
 
 .nonUnderline {
   text-decoration: none;
