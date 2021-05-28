@@ -5,7 +5,6 @@ body {
   align-items: center;
 }
 h1 {
-  color: #569aff;
   font-weight: 800;
   font-size: 50px;
   text-align: center;
@@ -18,7 +17,7 @@ address {
   text-align: center;
 }
 #hwino {
-  color: blue;
+  color: #569aff;
 }
 
 .nonUnderline {
