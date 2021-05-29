@@ -1,4 +1,3 @@
-  
 body {
   background-color: white;
   display: flex;
@@ -18,16 +17,16 @@ address {
   text-align: center;
 }
 #hwino {
-  color: #569AFF;
+  color: #569aff;
 }
 #wonjun {
-  color: #9ACD32;
+  color: #9acd32;
 }
-#minjoeng{
-  color: #FFC700;
+#minjeong {
+  color: #ffc700;
 }
-#wooseok{
-  color: #F6917D;
+#wooseok {
+  color: #f6917d;
 }
 .nonUnderline {
   text-decoration: none;
