@@ -3,25 +3,18 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  text-align: center;
 }
 
 h1 {
   color: black;
   font-weight: 800;
   font-size: 54px;
-  text-align: center;
+
   font-style: oblique;
   text-shadow: 4px 2px 2px gray;
 }
-h2 {
-  text-align: center;
-}
-h4 {
-  text-align: center;
-}
-address {
-  text-align: center;
-}
+
 #hwino {
   color: #569aff;
 }
@@ -29,7 +22,7 @@ address {
   color: yellowgreen;
 }
 #minjeong {
-  color: #FFC700;
+  color: #ffc700;
 }
 #wooruck {
   color: #f6917d;
