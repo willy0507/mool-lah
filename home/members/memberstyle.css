@@ -10,6 +10,7 @@ h1 {
   font-size: 54px;
 
   font-style: oblique;
+  text-shadow: 2px 1px 1px gray;
 }
 h2 {
   font-style: italic;
