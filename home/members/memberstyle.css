@@ -10,7 +10,7 @@ h1 {
   font-size: 54px;
 
   font-style: oblique;
-  text-shadow: 2px 1px 1px gray;
+  text-shadow: 1.5px 1px 1px  black;
 }
 h2 {
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -39,7 +39,8 @@ h4 {
   color: #f6917d;
 }
 #sponsor {
-  color: black;
+  color: gray;
+
 }
 .nonUnderline {
   text-decoration: none;
